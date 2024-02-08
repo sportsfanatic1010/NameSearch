@@ -126,11 +126,11 @@ def display_text():
 def search_name(entry):
     found = {}
     positions = {
-        0 : "#1",
-        1 : "#2",
-        2 : "#3",
-        3 : "#4",
-        4 : "#5"
+        0 : "1",
+        1 : "2",
+        2 : "3",
+        3 : "4",
+        4 : "5"
         
     }
     for key in names:
@@ -169,9 +169,15 @@ def search_name(entry):
     print(found)
     found_str = """Years Found:
     """
+    history.insert(tk.END, entry)
+    history.insert(tk.END, "\n")
     if len(found) != 0:
         text.delete(1.0, tk.END)
-        text.insert(tk.END, found)
+        for key in found:
+            string = f"Found {entry} in position {found[key]} in {key}"
+            newline = "\n"           
+            text.insert(tk.END, string)
+            text.insert(tk.END, newline)
     elif len(found) == 0:
         text.delete(1.0, tk.END)
         text.insert(tk.END, "Name Not Found")
@@ -180,17 +186,20 @@ def search_name(entry):
 win = tk.Tk()
 win.title("Most Common Names (1923 - 2022)")
 win.geometry("1000x700")
-label=tk.Label(win, text="Enter a Name", font=("Arial 22"))
+label=tk.Label(win, text="Enter a Name", font=("Arial 22")).place(x=500, y=0)
 
 
-text = tk.Text(win, font=("Arial 15"), width=50, height=25)
+text = tk.Text(win, font=("Arial 15"), width=50, height=25).place(x=500, y=50)
 
+history = tk.Text(win, font="Arial 15", width=15, height=25)
 
 entry= tk.Entry(win, width= 40)
-entry.focus_set()
-label.pack()
-entry.pack()
-ttk.Button(win, text= "Search",width= 20, command= display_text).pack(pady=15)
-text.pack()
+entry.grid(row=5, column=5)
+
+
+history.grid(row=15, column=0)
+
+ttk.Button(win, text= "Search",width= 20, command= display_text).place(x=500, y=15)
+
 
 win.mainloop()
