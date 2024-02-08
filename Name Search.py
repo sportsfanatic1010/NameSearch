@@ -124,7 +124,15 @@ def display_text():
    search_name(string)
 
 def search_name(entry):
-    found = []
+    found = {}
+    positions = {
+        0 : "#1",
+        1 : "#2",
+        2 : "#3",
+        3 : "#4",
+        4 : "#5"
+        
+    }
     for key in names:
         logging.critical(key)
         key1 = False
@@ -134,32 +142,40 @@ def search_name(entry):
             logging.warning("Checking key 0")
 
             logging.warning(str(entry))
-            if str(names[key][iteration]) == str(entry):
+            if str(names[key][0][iteration]) == str(entry):
                 
                 logging.warning("Found entry in key 0")
-                position = key[0].index(entry)
-                found[key] = position  
-                
+                position = positions[iteration]
+                found[int(key)] = position  
+                iteration2 = 0
                 for i in key[1]:
-                    if i == entry:
+                    if str(names[key][1][iteration2]) == entry:
                         logging.warning("Found entry in key 1")
-                        position = key[1].index(entry)
+                        position = positions[iteration]
                         found[key] += position
                         key1 = True
+                    iteration2 += 1
             iteration += 1 
         if not key1:
             logging.critical("Checking key 1 separately")
             iteration = 0
             for i in names[key][1]:
                 
-                if i == entry:
+                if str(names[key][1][iteration]) == entry:
                     logging.warning("Found entry in key 1")
-                    position = key[1].index(entry)
+                    position = positions[iteration]
                     found[key] = position
     print("Finished")
     print(found)
-    if len(found) != 1:
+    found_str = """Years Found:
+    """
+    if len(found) != 0:
+        text.delete(1.0, tk.END)
         text.insert(tk.END, found)
+    elif len(found) == 0:
+        text.delete(1.0, tk.END)
+        text.insert(tk.END, "Name Not Found")
+        
 
 win = tk.Tk()
 win.title("Most Common Names (1923 - 2022)")
