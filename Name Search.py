@@ -12,6 +12,12 @@ and assembled into the dictionary below
 Refer to https://github.com/sportsfanatic1010/MostCommonNames
 for the source code for the webscraper
 """
+"""
+Add:
+Add a history of name searches (like search history)
+Make it so that the text box displays the year and what position the name was out of the top five and add the gender
+To do the above, iterate through the dictionary and add each one by one and add a new line after each
+"""
 names = {"2022": [["Olivia", "Emma", "Charlotte", "Amelia", "Sophia"], ["Liam", "Noah", "Oliver", "James", "Elijah"]],
 "2021": [["Olivia", "Emma", "Charlotte", "Amelia", "Ava"], ["Liam", "Noah", "Oliver", "Elijah", "James"]],
 "2020": [["Olivia", "Emma", "Ava", "Charlotte", "Sophia"], ["Liam", "Noah", "Oliver", "Elijah", "William"]],
