@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 import logging
+import requests
+from bs4 import BeautifulSoup
 
 """
 The list of the most common names from 1923 until 2022 was scraped
@@ -116,12 +118,19 @@ names = {"2022": [["Olivia", "Emma", "Charlotte", "Amelia", "Sophia"], ["Liam", 
 # To gather the top 5 names from a specific year via gender:
 # use index 0 for females and index 1 for males
 # names[year][index]
+def nameHistory(name):
+    URL = f'https://www.behindthename.com/name/{name}'
+    headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"} 
+    request = requests.get(URL, headers=headers)
+    soup = BeautifulSoup(request.content, 'html5lib')
+    print(soup.prettify())
 
 def display_text():
    global entry
    string= entry.get()
    label.configure(text=string)
    search_name(string)
+   nameHistory(string)
 
 def search_name(entry):
     found = {}
@@ -142,14 +151,14 @@ def search_name(entry):
             logging.warning("Checking key 0")
 
             logging.warning(str(entry))
-            if str(names[key][0][iteration]) == str(entry):
+            if str(names[key][0][iteration]).lower() == str(entry).lower():
                 
                 logging.warning("Found entry in key 0")
                 position = positions[iteration]
                 found[int(key)] = position  
                 iteration2 = 0
                 for i in key[1]:
-                    if str(names[key][1][iteration2]) == entry:
+                    if str(names[key][1][iteration2]).lower == str(entry).lower():
                         logging.warning("Found entry in key 1")
                         position = positions[iteration]
                         found[key] += position
@@ -161,7 +170,7 @@ def search_name(entry):
             iteration = 0
             for i in names[key][1]:
                 
-                if str(names[key][1][iteration]) == entry:
+                if str(names[key][1][iteration]).lower() == str(entry).lower():
                     logging.warning("Found entry in key 1")
                     position = positions[iteration]
                     found[key] = position
@@ -185,21 +194,22 @@ def search_name(entry):
 
 win = tk.Tk()
 win.title("Most Common Names (1923 - 2022)")
-win.geometry("1000x700")
-label=tk.Label(win, text="Enter a Name", font=("Arial 22")).place(x=500, y=0)
-
-
-text = tk.Text(win, font=("Arial 15"), width=50, height=25).place(x=500, y=50)
-
+width = 1000
+height = 700
+win.geometry(f"{width}x{height}")
+label=tk.Label(win, text="Enter a Name", font=("Arial 22"), width=20)
 history = tk.Text(win, font="Arial 15", width=15, height=25)
 
+
 entry= tk.Entry(win, width= 40)
-entry.grid(row=5, column=5)
 
+text = tk.Text(win, font=("Arial 15"), width=40, height=20)
+text.tag_configure("center", justify='center')
+text.tag_add("center", "1.0", "end")
 
-history.grid(row=15, column=0)
-
-ttk.Button(win, text= "Search",width= 20, command= display_text).place(x=500, y=15)
-
-
+history.pack(side=tk.LEFT)
+label.pack(pady=5)
+entry.pack(padx=5, pady=10)
+ttk.Button(win, text= "Search",width= 20, command= display_text).pack(padx=5, pady=15)
+text.pack()
 win.mainloop()
