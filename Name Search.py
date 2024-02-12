@@ -1,7 +1,10 @@
 import tkinter as tk
 from tkinter import ttk
-import logging
+import requests
+from bs4 import BeautifulSoup
+import re
 
+setting = True
 """
 The list of the most common names from 1923 until 2022 was scraped
 from the social security website
@@ -11,12 +14,6 @@ were assembled into lists based on the gender)
 and assembled into the dictionary below
 Refer to https://github.com/sportsfanatic1010/MostCommonNames
 for the source code for the webscraper
-"""
-"""
-Add:
-Add a history of name searches (like search history)
-Make it so that the text box displays the year and what position the name was out of the top five and add the gender
-To do the above, iterate through the dictionary and add each one by one and add a new line after each
 """
 names = {"2022": [["Olivia", "Emma", "Charlotte", "Amelia", "Sophia"], ["Liam", "Noah", "Oliver", "James", "Elijah"]],
 "2021": [["Olivia", "Emma", "Charlotte", "Amelia", "Ava"], ["Liam", "Noah", "Oliver", "Elijah", "James"]],
@@ -122,81 +119,143 @@ names = {"2022": [["Olivia", "Emma", "Charlotte", "Amelia", "Sophia"], ["Liam", 
 # To gather the top 5 names from a specific year via gender:
 # use index 0 for females and index 1 for males
 # names[year][index]
+def nameHistory(name):
+    URL = f'https://www.behindthename.com/name/{name}'
+    headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"} 
+    request = requests.get(URL, headers=headers)
+    soup = BeautifulSoup(request.content, 'html5lib')
+
+    important = soup.find('div', class_='namedef')
+    for data in important(['style', 'script']):
+        # Remove tags
+        data.decompose()
+ 
+    # return data by retrieving the tag content
+    entry_list = [name, ' (history)']
+    entry = ''.join(entry_list)
+    text.delete(1.0, tk.END)
+    text.insert(tk.END, ' '.join(important.stripped_strings))
+    history.insert('1.0', entry)
+    history.insert('1.0', "\n")
+    
+   
+
+
 
 def display_text():
-   global entry
-   string= entry.get()
-   label.configure(text=string)
-   search_name(string)
+    global entry
+    string= entry.get()
+    label.configure(text=string)
+    if setting == True:
+        search_name(string)
+
+    else:
+       nameHistory(string)
+
 
 def search_name(entry):
     found = {}
     positions = {
-        0 : "#1",
-        1 : "#2",
-        2 : "#3",
-        3 : "#4",
-        4 : "#5"
+        0 : "1",
+        1 : "2",
+        2 : "3",
+        3 : "4",
+        4 : "5"
         
     }
     for key in names:
-        logging.critical(key)
+
         key1 = False
         iteration = 0
         for i in names[key][0]:
-            logging.critical(f"Key 0: {names[key][0][iteration]}")
-            logging.warning("Checking key 0")
-
-            logging.warning(str(entry))
-            if str(names[key][0][iteration]) == str(entry):
-                
-                logging.warning("Found entry in key 0")
+            if str(names[key][0][iteration]).lower() == str(entry).lower():
+            
                 position = positions[iteration]
                 found[int(key)] = position  
                 iteration2 = 0
                 for i in key[1]:
-                    if str(names[key][1][iteration2]) == entry:
-                        logging.warning("Found entry in key 1")
+                    if str(names[key][1][iteration2]).lower == str(entry).lower():
                         position = positions[iteration]
                         found[key] += position
                         key1 = True
                     iteration2 += 1
             iteration += 1 
         if not key1:
-            logging.critical("Checking key 1 separately")
             iteration = 0
             for i in names[key][1]:
                 
-                if str(names[key][1][iteration]) == entry:
-                    logging.warning("Found entry in key 1")
+                if str(names[key][1][iteration]).lower() == str(entry).lower():
                     position = positions[iteration]
                     found[key] = position
     print("Finished")
     print(found)
     found_str = """Years Found:
     """
+    history.insert('1.0', entry)
+    history.insert('1.0', "\n")
     if len(found) != 0:
         text.delete(1.0, tk.END)
-        text.insert(tk.END, found)
+        for key in found:
+            string = f"Found {entry} in position {found[key]} in {key}"
+            newline = "\n"           
+            text.insert(tk.END, string)
+            text.insert(tk.END, newline)
     elif len(found) == 0:
         text.delete(1.0, tk.END)
         text.insert(tk.END, "Name Not Found")
         
+def switch():
+
+    global setting
+    setting = not setting
+    update_label()
 
 win = tk.Tk()
 win.title("Most Common Names (1923 - 2022)")
-win.geometry("1000x700")
-label=tk.Label(win, text="Enter a Name", font=("Arial 22"))
-
-
-text = tk.Text(win, font=("Arial 15"), width=50, height=25)
+width = 800
+height = 800
+win.geometry(f"{width}x{height}")
+label=tk.Label(win, text="Enter a Name", font=("Arial 22"), width=20)
+history = tk.Text(win, font="Arial 15", width=15, height=25)
 
 
 entry= tk.Entry(win, width= 40)
-entry.focus_set()
-label.pack()
-entry.pack()
-ttk.Button(win, text= "Search",width= 20, command= display_text).pack(pady=15)
-text.pack()
 
+text = tk.Text(win, font=("Arial 15"), width=150, height=20)
+text.tag_configure("center", justify='center')
+text.tag_add("center", "1.0", "end")
+
+
+history.place(relx=0.005,
+              rely=0.1)
+label.pack(pady=5)
+entry.pack(padx=5, pady=10)
+switch_button = ttk.Button(win, text="Switch", command=switch, width=5)
+
+switch_button.place(relx=0.005,
+                    rely=0.0,
+                    anchor="nw"
+                    
+
+                    )
+ttk.Button(win, text= "Search",width= 20, command= display_text).pack(padx=5, pady=15)
+text.pack(padx=200)
+status = tk.Label(win, text="")
+status.place(relx=0.005,
+             rely=0.05,
+             anchor = "nw"
+             )
+def update_label():
+
+    if setting == True:
+        
+        label = """Currently Viewing:
+Name Popularity"""
+    else:
+        label = """Currently Viewing:
+Name History"""
+    status["text"] = label
+    win.after(1000, update_label)
+win.after(1, update_label)
+win.resizable(False, False)
 win.mainloop()
