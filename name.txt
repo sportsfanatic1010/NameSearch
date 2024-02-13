@@ -1,0 +1,2717 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html dir="ltr" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="Mike Campbell" name="author"/>
+  <meta content="The meaning, origin and history of the given name Jake" name="description"/>
+  <meta content="meaning, baby names, list, dictionary, encyclopedia, etymology, name, etymologies, origin, meanings, origins, onomastics, boy names, girl names, reference" name="keywords"/>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width" id="viewport" name="viewport"/>
+  <title>
+   Meaning, origin and history of the name Jake - Behind the Name
+  </title>
+  <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+  <link href="/style.php?v=503" rel="stylesheet" type="text/css"/>
+  <link href="/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+  <link href="/images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/images/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://www.behindthename.com/name/jake" rel="canonical"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js" type="text/javascript">
+  </script>
+  <script src="/js/btn.js?version=89" type="text/javascript">
+  </script>
+  <meta content="Meaning, origin and history of the name Jake" property="og:title"/>
+  <meta content="name" property="og:type"/>
+  <meta content="https://www.behindthename.com/images/btn_sm.png" property="og:image"/>
+  <meta content="Behind the Name" property="og:site_name"/>
+  <meta content="171755776192813" property="fb:admins"/>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-6043105-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-6043105-1');
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-YNCLK0ZJ8H">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YNCLK0ZJ8H');
+  </script>
+  <script src="https://qd.admetricspro.com/js/behindthename/sticky-layout-loader.js">
+  </script>
+ </head>
+ <body>
+  <nav>
+   <div id="menubar-wrapper">
+    <div id="menubar">
+     <table id="menubar-table">
+      <tbody>
+       <tr>
+        <td id="menucell1">
+         <a href="/">
+          <img alt="Behind the Name - the etymology and history of first names" id="menu-logo" src="/images/btn_header.png"/>
+          <img alt="Behind the Name - the etymology and history of first names" id="menu-logo-sm" src="/images/btn_header_small.png"/>
+         </a>
+        </td>
+        <td id="menucell2">
+         <form action="/names/search.php" id="menu-search" method="get">
+          <div>
+           <table cellpadding="0" cellspacing="0">
+            <tbody>
+             <tr>
+              <td>
+               <input autocapitalize="off" autocomplete="off" autocorrect="off" id="menu-search-input" name="terms" spellcheck="false" type="text"/>
+              </td>
+              <td>
+               <button id="menu-search-button" type="submit">
+                <img alt="Search" src="/images/search_header.png"/>
+               </button>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+         </form>
+         <script type="text/javascript">
+          $(function() {
+	set_search_autocomplete("#menu-search-input");
+});
+         </script>
+        </td>
+        <td id="menucell3">
+         <ul id="btnmenu">
+          <li>
+           <a href="" onclick="return false;">
+            Names
+           </a>
+           <ul class="btnsubmenu">
+            <li>
+             <a href="/info/names">
+              Introduction
+             </a>
+            </li>
+            <li>
+             <a href="/names/list">
+              Browse Names
+             </a>
+            </li>
+            <li>
+             <a href="/names/search">
+              Advanced Search
+             </a>
+            </li>
+            <li>
+             <a href="/top/">
+              Popularity
+             </a>
+            </li>
+            <li>
+             <a href="/namesakes/">
+              Namesakes
+             </a>
+            </li>
+            <li>
+             <a href="/namedays/">
+              Name Days
+             </a>
+            </li>
+            <li>
+             <a href="/submit/">
+              Submitted Names
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="" onclick="return false;">
+            Interact
+           </a>
+           <ul class="btnsubmenu">
+            <li>
+             <a href="/bb/">
+              Message Boards
+             </a>
+            </li>
+            <li>
+             <a href="/polls/">
+              Polls
+             </a>
+            </li>
+            <li>
+             <a href="/derby/">
+              Predict Rankings
+             </a>
+            </li>
+            <li>
+             <a href="/submit/submit">
+              Submit a Name
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="" onclick="return false;">
+            Tools
+           </a>
+           <ul class="btnsubmenu">
+            <li>
+             <a href="/random/">
+              Random Renamer
+             </a>
+            </li>
+            <li>
+             <a href="/names/translate">
+              Name Translator
+             </a>
+            </li>
+            <li>
+             <a href="/meanings/">
+              Meanings
+             </a>
+            </li>
+            <li>
+             <a href="/anagram/">
+              Anagrams
+             </a>
+            </li>
+            <li>
+             <a href="/guide/">
+              Baby Name Expert
+             </a>
+            </li>
+            <li>
+             <a href="https://surnames.behindthename.com/">
+              Surname Site
+             </a>
+            </li>
+            <li>
+             <a href="https://places.behindthename.com/">
+              Place Name Site
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </td>
+        <td id="menucell0">
+         <div id="mobileopts">
+          <div id="mobileopts-head">
+           <img alt="Menu" src="/images/menu.png"/>
+           <span>
+            Menu
+           </span>
+          </div>
+          <div id="mobilemenu">
+           <ul id="mobilemenu-user">
+            <li>
+             <a href="https://www.behindthename.com/members/login">
+              Sign In
+             </a>
+            </li>
+            <li>
+             <a href="https://www.behindthename.com/members/signup">
+              Register
+             </a>
+            </li>
+            <li>
+             <hr/>
+            </li>
+            <li>
+             <a href="https://surnames.behindthename.com/">
+              Surname Site
+             </a>
+            </li>
+            <li>
+             <a href="https://places.behindthename.com/">
+              Place Name Site
+             </a>
+            </li>
+           </ul>
+           <ul id="mobilemenu-main">
+            <li>
+             <a href="/info/names">
+              Introduction
+             </a>
+            </li>
+            <li>
+             <a href="/names/list">
+              Browse Names
+             </a>
+            </li>
+            <li>
+             <a href="/names/search">
+              Advanced Search
+             </a>
+            </li>
+            <li>
+             <a href="/top/">
+              Popularity
+             </a>
+            </li>
+            <li>
+             <a href="/namesakes/">
+              Namesakes
+             </a>
+            </li>
+            <li>
+             <a href="/namedays/">
+              Name Days
+             </a>
+            </li>
+            <li>
+             <a href="/submit/">
+              Submitted Names
+             </a>
+            </li>
+            <li>
+             <a href="/bb/">
+              Message Boards
+             </a>
+            </li>
+            <li>
+             <a href="/polls/">
+              Polls
+             </a>
+            </li>
+            <li>
+             <a href="/derby/">
+              Predict Rankings
+             </a>
+            </li>
+            <li>
+             <a href="/submit/submit">
+              Submit a Name
+             </a>
+            </li>
+            <li>
+             <a href="/random/">
+              Random Renamer
+             </a>
+            </li>
+            <li>
+             <a href="/names/translate">
+              Name Translator
+             </a>
+            </li>
+            <li>
+             <a href="/meanings/">
+              Meanings
+             </a>
+            </li>
+            <li>
+             <a href="/anagram/">
+              Anagrams
+             </a>
+            </li>
+            <li>
+             <a href="/guide/">
+              Baby Name Expert
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+        <td id="menucell4">
+         <div id="btnmenu-login">
+          <a href="https://www.behindthename.com/members/login">
+           Sign In
+          </a>
+          <a href="https://www.behindthename.com/members/signup">
+           Register
+          </a>
+         </div>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+  </nav>
+  <div id="body-wrapper">
+   <div id="body">
+    <div id="body-inner">
+     <div class="namebanner">
+      <div class="namebanner-bar" style="height:70px;background:#E93A3C;background:-moz-linear-gradient(-45deg, #E93A3C 24%, #713E1A 76.2%);
+background:-webkit-gradient(linear, left top, right bottom, color-stop(24%,#E93A3C), color-stop(76.2%,#713E1A));
+background:-webkit-linear-gradient(-45deg, #E93A3C 24%, #713E1A 76.2%);
+background:-o-linear-gradient(-45deg, #E93A3C 24%, #713E1A 76.2%);
+background:-ms-linear-gradient(-45deg, #E93A3C 24%, #713E1A 76.2%);
+background:linear-gradient(135deg, #E93A3C 24%, #713E1A 76.2%);
+">
+       <div class="namebanner-shdw" style="height:60px;padding-top:10px;background:#E93A3C;background:-moz-linear-gradient(top, rgba(3,3,3,0) 30%, rgba(3,3,3,0.4) 100%);
+background:-webkit-gradient(linear, left top, left bottom, color-stop(30%,rgba(3,3,3,0)), color-stop(100%,rgba(3,3,3,0.4)));
+background:-webkit-linear-gradient(top, rgba(3,3,3,0) 30%, rgba(3,3,3,0.4) 100%);
+background:-o-linear-gradient(top, rgba(3,3,3,0) 30%, rgba(3,3,3,0.4) 100%);
+background:-ms-linear-gradient(top, rgba(3,3,3,0) 30%, rgba(3,3,3,0.4) 100%);
+background:linear-gradient(to bottom, rgba(3,3,3,0) 30%, rgba(3,3,3,0.4) 100%);
+">
+       </div>
+       <h1 class="namebanner-title" style="font-size:36px;text-shadow: 4px 4px 8px #713E1A, -4px 4px 8px #713E1A, 4px -4px 8px #713E1A, -4px -4px 8px #713E1A;">
+        Jake
+       </h1>
+      </div>
+      <nav class="name-tabbar">
+       <a class="nametab nametab_active" href="/name/jake" style="max-width:150px;min-width:72px;width:16.7%;">
+        Name
+       </a>
+       <a class="nametab nametab_inactive" href="/name/jake/top" style="max-width:150px;min-width:72px;width:16.7%;">
+        Popularity
+       </a>
+       <a class="nametab nametab_inactive nametab_long" href="/name/jake/related" style="max-width:150px;min-width:72px;width:16.7%;">
+        Related Names
+       </a>
+       <a class="nametab nametab_inactive nametab_short" href="/name/jake/related" style="max-width:150px;min-width:72px;width:16.7%;">
+        Related
+       </a>
+       <a class="nametab nametab_inactive" href="/name/jake/rating" style="max-width:150px;min-width:72px;width:16.7%;">
+        Ratings
+       </a>
+       <a class="nametab nametab_inactive" href="/name/jake/comments" style="max-width:150px;min-width:72px;width:16.7%;">
+        Comments
+       </a>
+       <a class="nametab nametab_inactive" href="/name/jake/namesakes" style="max-width:150px;min-width:72px;width:16.7%;">
+        Namesakes
+       </a>
+       <div class="nametab nametab_inactive" style="width:100%">
+       </div>
+      </nav>
+     </div>
+     <div class="info_message">
+     </div>
+     <div>
+      <article>
+       <nav class="nametools">
+        <div class="ratebutton">
+         <div class="ratenumber" onclick="window.location.href='/name/jake/rating'">
+          72%
+          <span>
+           Rating
+          </span>
+         </div>
+        </div>
+        <div class="pnlbutton">
+         <div>
+          <div id="pnl-add-jake">
+           <div class="pnladd" onclick="return add2pnl_name('jake', 0, 0, false, true, 'aQAkX1xspM');">
+            <img alt="add to your list" src="/images/name/star-black.png"/>
+            <span>
+             Save
+            </span>
+           </div>
+          </div>
+          <div class="popup-wrapper" id="pnl-detail-jake">
+          </div>
+         </div>
+        </div>
+       </nav>
+       <div class="infogroup" style="padding-top:10px">
+        <div class="infoname">
+         <span class="infoname-title">
+          Gender
+         </span>
+         <span class="infoname-info">
+          <span class="masc">
+           Masculine
+          </span>
+         </span>
+        </div>
+        <div class="infoname">
+         <span class="infoname-title" title="Usage (where this name is used)">
+          Usage
+         </span>
+         <span class="infoname-info">
+          <a class="usg" href="/names/usage/english">
+           English
+          </a>
+         </span>
+        </div>
+        <div class="infoname">
+         <span class="infoname-title infoname-title-full">
+          Pronounced
+         </span>
+         <span class="infoname-title infoname-title-short" title="Pronunciation">
+          Pron.
+         </span>
+         <span class="infoname-info" id="infoname-info-pron">
+          <span class="infoname-unit">
+           <a class="prn" href="#" onclick="return show_prondetail('JAYK', 1, false, false);">
+            JAYK
+           </a>
+           <div class="popup-wrapper pron-detail" id="pron-detail-1">
+           </div>
+          </span>
+          [
+          <a class="text-function" href="/info/pronunciation">
+           key
+          </a>
+          <span class="muted-sep muted-sep-mini">
+           ·
+          </span>
+          <a class="text-function" href="#" onclick="return toggle_pron('jake', true, 'infoname-info-pron');">
+           IPA
+          </a>
+          ]
+         </span>
+        </div>
+       </div>
+       <section>
+        <div class="nameheading wide">
+         <div class="nameheading-top">
+          <h2 class="hx">
+           Meaning &amp; History
+          </h2>
+          <nav class="heading-nav">
+           <div>
+            <a class="text-function" href="#" onclick="return expand_name_links('jake', 'expanded_links');">
+             Expand Links
+            </a>
+           </div>
+          </nav>
+         </div>
+        </div>
+        <div class="namedef">
+         Medieval variant of
+         <a class="nl" href="/name/jack">
+          Jack
+         </a>
+         . It is also sometimes used as a short form of
+         <a class="nl" href="/name/jacob">
+          Jacob
+         </a>
+         .
+         <div id="expanded_links" style="display:none;margin-top:8px;">
+         </div>
+        </div>
+       </section>
+       <section>
+        <div class="nameheading wide">
+         <div class="nameheading-top">
+          <h2 class="hx">
+           Related Names
+          </h2>
+          <nav class="heading-nav">
+           <div>
+            <a class="text-function" href="/name/jake/tree">
+             Family Tree
+            </a>
+            <span class="muted-sep">
+             ·
+            </span>
+            <a class="text-function" href="/name/jake/related">
+             Details
+            </a>
+           </div>
+          </nav>
+         </div>
+        </div>
+        <div class="infogroup relblurb">
+         <div class="inforel">
+          <span class="inforel-title">
+           Variants
+          </span>
+          <span class="inforel-info">
+           <a class="ngl" href="/name/coby">
+            Coby
+           </a>
+           ,
+           <a class="ngl" href="/name/jack">
+            Jack
+           </a>
+           ,
+           <a class="ngl" href="/name/jeb">
+            Jeb
+           </a>
+           ,
+           <a class="ngl" href="/name/koby">
+            Koby
+           </a>
+          </span>
+         </div>
+         <div class="inforel">
+          <span class="inforel-title">
+           Diminutive
+          </span>
+          <span class="inforel-info">
+           <a class="ngl" href="/name/jackie">
+            Jackie
+           </a>
+          </span>
+         </div>
+         <div class="inforel">
+          <span class="inforel-title">
+           Other Languages &amp; Cultures
+          </span>
+          <span class="inforel-info">
+           <a class="ngl" href="/name/gjon">
+            Gjon
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Albanian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yohannes">
+            Yohannes
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Amharic
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yacoub">
+            Yacoub
+           </a>
+           ,
+           <a class="ngl" href="/name/yahya">
+            Yahya
+           </a>
+           ,
+           <a class="ngl" href="/name/yakub">
+            Yakub
+           </a>
+           ,
+           <a class="ngl" href="/name/yaqoob">
+            Yaqoob
+           </a>
+           ,
+           <a class="ngl" href="/name/yaqub">
+            Yaqub
+           </a>
+           ,
+           <a class="ngl" href="/name/yuhanna">
+            Yuhanna
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Arabic
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/hagop">
+            Hagop
+           </a>
+           ,
+           <a class="ngl" href="/name/hakob">
+            Hakob
+           </a>
+           ,
+           <a class="ngl" href="/name/hovhannes">
+            Hovhannes
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Armenian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/xuan">
+            Xuan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Asturian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ion-1">
+            Ion
+           </a>
+           ,
+           <a class="ngl" href="/name/jakes">
+            Jakes
+           </a>
+           ,
+           <a class="ngl" href="/name/jon-1">
+            Jon
+           </a>
+           ,
+           <a class="ngl" href="/name/ganix">
+            Ganix
+           </a>
+           ,
+           <a class="ngl" href="/name/iban">
+            Iban
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Basque
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/yakau">
+            Yakau
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Belarusian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jacob">
+            Jacob
+           </a>
+           ,
+           <a class="ngl" href="/name/james">
+            James
+           </a>
+           ,
+           <a class="ngl" href="/name/jehohanan">
+            Jehohanan
+           </a>
+           ,
+           <a class="ngl" href="/name/johanan">
+            Johanan
+           </a>
+           ,
+           <a class="ngl" href="/name/john">
+            John
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Biblical
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iakob">
+            Iakob
+           </a>
+           ,
+           <a class="ngl" href="/name/iakobos">
+            Iakobos
+           </a>
+           ,
+           <a class="ngl" href="/name/ioannes">
+            Ioannes
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Biblical Greek
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yaakov">
+            Yaakov
+           </a>
+           ,
+           <a class="ngl" href="/name/yehochanan">
+            Yehochanan
+           </a>
+           ,
+           <a class="ngl" href="/name/yochanan">
+            Yochanan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Biblical Hebrew
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iacob">
+            Iacob
+           </a>
+           ,
+           <a class="ngl" href="/name/iacobus">
+            Iacobus
+           </a>
+           ,
+           <a class="ngl" href="/name/iohannes">
+            Iohannes
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Biblical Latin
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yann">
+            Yann
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Breton
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ioan">
+            Ioan
+           </a>
+           ,
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/yoan-2">
+            Yoan
+           </a>
+           ,
+           <a class="ngl" href="/name/yakov">
+            Yakov
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Bulgarian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jaume">
+            Jaume
+           </a>
+           ,
+           <a class="ngl" href="/name/joan-2">
+            Joan
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Catalan
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jago">
+            Jago
+           </a>
+           ,
+           <a class="ngl" href="/name/jowan">
+            Jowan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Cornish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ghjuvan">
+            Ghjuvan
+           </a>
+           ,
+           <a class="ngl" href="/name/ghjuvanni">
+            Ghjuvanni
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Corsican
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakov">
+            Jakov
+           </a>
+           ,
+           <a class="ngl" href="/name/jaks18a">
+            Jakša
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Croatian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakub">
+            Jakub
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/ja10kob">
+            Jákob
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Czech
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jacob">
+            Jacob
+           </a>
+           ,
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/jens">
+            Jens
+           </a>
+           ,
+           <a class="ngl" href="/name/johan">
+            Johan
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jon-1">
+            Jon
+           </a>
+           ,
+           <a class="ngl" href="/name/ib">
+            Ib
+           </a>
+           ,
+           <a class="ngl" href="/name/jeppe">
+            Jeppe
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Danish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jacob">
+            Jacob
+           </a>
+           ,
+           <a class="ngl" href="/name/jacobus">
+            Jacobus
+           </a>
+           ,
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/johan">
+            Johan
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/sjaak">
+            Sjaak
+           </a>
+           ,
+           <a class="ngl" href="/name/jaap">
+            Jaap
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Dutch
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/johano">
+            Johano
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Esperanto
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jaan">
+            Jaan
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/juhan">
+            Juhan
+           </a>
+           ,
+           <a class="ngl" href="/name/jaagup">
+            Jaagup
+           </a>
+           ,
+           <a class="ngl" href="/name/jaak">
+            Jaak
+           </a>
+           ,
+           <a class="ngl" href="/name/jaakob">
+            Jaakob
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Estonian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ja10kup">
+            Jákup
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10annes">
+            Jóannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10gvan">
+            Jógvan
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10hannes">
+            Jóhannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10n">
+            Jón
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Faroese
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jone-2">
+            Jone
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Fijian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jani">
+            Jani
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/joni-2">
+            Joni
+           </a>
+           ,
+           <a class="ngl" href="/name/jouni">
+            Jouni
+           </a>
+           ,
+           <a class="ngl" href="/name/juhana">
+            Juhana
+           </a>
+           ,
+           <a class="ngl" href="/name/juhani">
+            Juhani
+           </a>
+           ,
+           <a class="ngl" href="/name/jaakko">
+            Jaakko
+           </a>
+           ,
+           <a class="ngl" href="/name/jaakob">
+            Jaakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jaakoppi">
+            Jaakoppi
+           </a>
+           ,
+           <a class="ngl" href="/name/jaska">
+            Jaska
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Finnish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jaak">
+            Jaak
+           </a>
+           ,
+           <a class="ngl" href="/name/kobe-1">
+            Kobe
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Flemish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jacques">
+            Jacques
+           </a>
+           ,
+           <a class="ngl" href="/name/jean-1">
+            Jean
+           </a>
+           ,
+           <a class="ngl" href="/name/yann">
+            Yann
+           </a>
+           ,
+           <a class="ngl" href="/name/yoan-1">
+            Yoan
+           </a>
+           ,
+           <a class="ngl" href="/name/yoann">
+            Yoann
+           </a>
+           ,
+           <a class="ngl" href="/name/yohan">
+            Yohan
+           </a>
+           ,
+           <a class="ngl" href="/name/yohann">
+            Yohann
+           </a>
+           ,
+           <a class="ngl" href="/name/yvan">
+            Yvan
+           </a>
+           ,
+           <a class="ngl" href="/name/jeannot">
+            Jeannot
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             French
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/japik">
+            Japik
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Frisian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iago">
+            Iago
+           </a>
+           ,
+           <a class="ngl" href="/name/xacobe">
+            Xacobe
+           </a>
+           ,
+           <a class="ngl" href="/name/xaime">
+            Xaime
+           </a>
+           ,
+           <a class="ngl" href="/name/xan">
+            Xan
+           </a>
+           ,
+           <a class="ngl" href="/name/xoa10n">
+            Xoán
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Galician
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iakob">
+            Iakob
+           </a>
+           ,
+           <a class="ngl" href="/name/ivane">
+            Ivane
+           </a>
+           ,
+           <a class="ngl" href="/name/koba">
+            Koba
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Georgian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/johann">
+            Johann
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jockel">
+            Jockel
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             German
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/giannis">
+            Giannis
+           </a>
+           ,
+           <a class="ngl" href="/name/iakovos">
+            Iakovos
+           </a>
+           ,
+           <a class="ngl" href="/name/ioannis">
+            Ioannis
+           </a>
+           ,
+           <a class="ngl" href="/name/yannis">
+            Yannis
+           </a>
+           ,
+           <a class="ngl" href="/name/yiannis">
+            Yiannis
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Greek
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yak27ubu">
+            Yaƙubu
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Hausa
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iakopa">
+            Iakopa
+           </a>
+           ,
+           <a class="ngl" href="/name/keoni">
+            Keoni
+           </a>
+           ,
+           <a class="ngl" href="/name/kimo">
+            Kimo
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Hawaiian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yaakov">
+            Yaakov
+           </a>
+           ,
+           <a class="ngl" href="/name/yakov">
+            Yakov
+           </a>
+           ,
+           <a class="ngl" href="/name/yochanan">
+            Yochanan
+           </a>
+           ,
+           <a class="ngl" href="/name/akiba">
+            Akiba
+           </a>
+           ,
+           <a class="ngl" href="/name/akiva">
+            Akiva
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Hebrew
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iva10n">
+            Iván
+           </a>
+           ,
+           <a class="ngl" href="/name/jakab">
+            Jakab
+           </a>
+           ,
+           <a class="ngl" href="/name/ja10nos">
+            János
+           </a>
+           ,
+           <a class="ngl" href="/name/ja10kob">
+            Jákob
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Hungarian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jens">
+            Jens
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10hann">
+            Jóhann
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10hannes">
+            Jóhannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jo10n">
+            Jón
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Icelandic
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yohanes">
+            Yohanes
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Indonesian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/eoin">
+            Eoin
+           </a>
+           ,
+           <a class="ngl" href="/name/se10amus">
+            Séamus
+           </a>
+           ,
+           <a class="ngl" href="/name/sea10n">
+            Seán
+           </a>
+           ,
+           <a class="ngl" href="/name/sean">
+            Sean
+           </a>
+           ,
+           <a class="ngl" href="/name/shamus">
+            Shamus
+           </a>
+           ,
+           <a class="ngl" href="/name/shane">
+            Shane
+           </a>
+           ,
+           <a class="ngl" href="/name/sheamus">
+            Sheamus
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Irish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/giacomo">
+            Giacomo
+           </a>
+           ,
+           <a class="ngl" href="/name/giovanni">
+            Giovanni
+           </a>
+           ,
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/ivano">
+            Ivano
+           </a>
+           ,
+           <a class="ngl" href="/name/giacobbe">
+            Giacobbe
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Italian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jacob">
+            Jacob
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Jewish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iacomus">
+            Iacomus
+           </a>
+           ,
+           <a class="ngl" href="/name/jacobus">
+            Jacobus
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/joannes">
+            Joannes
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Late Roman
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivans">
+            Ivans
+           </a>
+           ,
+           <a class="ngl" href="/name/ja23nis">
+            Jānis
+           </a>
+           ,
+           <a class="ngl" href="/name/je23kabs">
+            Jēkabs
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Latvian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/sjang">
+            Sjang
+           </a>
+           ,
+           <a class="ngl" href="/name/sjeng">
+            Sjeng
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Limburgish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/joku23bas">
+            Jokūbas
+           </a>
+           ,
+           <a class="ngl" href="/name/jonas-1">
+            Jonas
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Lithuanian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakov">
+            Jakov
+           </a>
+           ,
+           <a class="ngl" href="/name/jovan">
+            Jovan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Macedonian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/g20wann">
+            Ġwann
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Maltese
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ean">
+            Ean
+           </a>
+           ,
+           <a class="ngl" href="/name/juan-1">
+            Juan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Manx
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/hemi">
+            Hemi
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Maori
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/hann">
+            Hann
+           </a>
+           ,
+           <a class="ngl" href="/name/jackin">
+            Jackin
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-3">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/jankin">
+            Jankin
+           </a>
+           ,
+           <a class="ngl" href="/name/jon-1">
+            Jon
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Medieval English
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jehan">
+            Jehan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Medieval French
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jacob">
+            Jacob
+           </a>
+           ,
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/jens">
+            Jens
+           </a>
+           ,
+           <a class="ngl" href="/name/johan">
+            Johan
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jon-1">
+            Jon
+           </a>
+           ,
+           <a class="ngl" href="/name/jone-2">
+            Jone
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Norwegian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/joan-2">
+            Joan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Occitan
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yahya">
+            Yahya
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Persian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iwan">
+            Iwan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakub">
+            Jakub
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/kuba">
+            Kuba
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Polish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iago">
+            Iago
+           </a>
+           ,
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jaime-1">
+            Jaime
+           </a>
+           ,
+           <a class="ngl" href="/name/joa14o">
+            João
+           </a>
+           ,
+           <a class="ngl" href="/name/jaco10">
+            Jacó
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Portuguese
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iacob">
+            Iacob
+           </a>
+           ,
+           <a class="ngl" href="/name/ioan">
+            Ioan
+           </a>
+           ,
+           <a class="ngl" href="/name/ion-1">
+            Ion
+           </a>
+           ,
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Romanian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ioann">
+            Ioann
+           </a>
+           ,
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/yakov">
+            Yakov
+           </a>
+           ,
+           <a class="ngl" href="/name/yasha">
+            Yasha
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Russian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/juha10n">
+            Juhán
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Sami
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/sione">
+            Sione
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Samoan
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/giuanne">
+            Giuanne
+           </a>
+           ,
+           <a class="ngl" href="/name/juanne">
+            Juanne
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Sardinian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/hamish">
+            Hamish
+           </a>
+           ,
+           <a class="ngl" href="/name/ian">
+            Ian
+           </a>
+           ,
+           <a class="ngl" href="/name/jock">
+            Jock
+           </a>
+           ,
+           <a class="ngl" href="/name/jockie">
+            Jockie
+           </a>
+           ,
+           <a class="ngl" href="/name/jocky">
+            Jocky
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Scottish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/eo11in">
+            Eòin
+           </a>
+           ,
+           <a class="ngl" href="/name/iain">
+            Iain
+           </a>
+           ,
+           <a class="ngl" href="/name/seoc">
+            Seoc
+           </a>
+           ,
+           <a class="ngl" href="/name/seumas">
+            Seumas
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Scottish Gaelic
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakov">
+            Jakov
+           </a>
+           ,
+           <a class="ngl" href="/name/jovan">
+            Jovan
+           </a>
+           ,
+           <a class="ngl" href="/name/jaks18a">
+            Jakša
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Serbian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakub">
+            Jakub
+           </a>
+           ,
+           <a class="ngl" href="/name/ja10n">
+            Ján
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Slovak
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/janez">
+            Janez
+           </a>
+           ,
+           <a class="ngl" href="/name/z18an">
+            Žan
+           </a>
+           ,
+           <a class="ngl" href="/name/anz18e">
+            Anže
+           </a>
+           ,
+           <a class="ngl" href="/name/anz18ej">
+            Anžej
+           </a>
+           ,
+           <a class="ngl" href="/name/jaka">
+            Jaka
+           </a>
+           ,
+           <a class="ngl" href="/name/jas18a">
+            Jaša
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Slovene
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Sorbian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/iva10n">
+            Iván
+           </a>
+           ,
+           <a class="ngl" href="/name/jacobo">
+            Jacobo
+           </a>
+           ,
+           <a class="ngl" href="/name/jaime-1">
+            Jaime
+           </a>
+           ,
+           <a class="ngl" href="/name/juan-1">
+            Juan
+           </a>
+           ,
+           <a class="ngl" href="/name/yago">
+            Yago
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Spanish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/jhon">
+            Jhon
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Spanish (Latin American)
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/jacob">
+            Jacob
+           </a>
+           ,
+           <a class="ngl" href="/name/jakob">
+            Jakob
+           </a>
+           ,
+           <a class="ngl" href="/name/jan-1">
+            Jan
+           </a>
+           ,
+           <a class="ngl" href="/name/jens">
+            Jens
+           </a>
+           ,
+           <a class="ngl" href="/name/johan">
+            Johan
+           </a>
+           ,
+           <a class="ngl" href="/name/johannes">
+            Johannes
+           </a>
+           ,
+           <a class="ngl" href="/name/jon-1">
+            Jon
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Swedish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/sione">
+            Sione
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Tongan
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yahya">
+            Yahya
+           </a>
+           ,
+           <a class="ngl" href="/name/yakup">
+            Yakup
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Turkish
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/ivan">
+            Ivan
+           </a>
+           ,
+           <a class="ngl" href="/name/yakiv">
+            Yakiv
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Ukrainian
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/evan">
+            Evan
+           </a>
+           ,
+           <a class="ngl" href="/name/iago">
+            Iago
+           </a>
+           ,
+           <a class="ngl" href="/name/ieuan">
+            Ieuan
+           </a>
+           ,
+           <a class="ngl" href="/name/ioan">
+            Ioan
+           </a>
+           ,
+           <a class="ngl" href="/name/sio13n">
+            Siôn
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Welsh
+            </span>
+            )
+           </span>
+           <a class="ngl" href="/name/yacouba">
+            Yacouba
+           </a>
+           <span class="infoname-usage">
+            (
+            <span>
+             Western African
+            </span>
+            )
+           </span>
+          </span>
+         </div>
+        </div>
+       </section>
+       <section>
+        <div class="nameheading wide">
+         <div class="nameheading-top">
+          <h2 class="hx">
+           Popularity
+          </h2>
+          <nav class="heading-nav">
+           <div>
+            <a class="text-function" href="/name/jake/top">
+             Details
+            </a>
+           </div>
+          </nav>
+         </div>
+        </div>
+        <div class="popblurb">
+         <div class="regionlist">
+          <div class="regionlink" id="regionlink_au">
+           <a class="rl" href="/name/jake/top/australia-nsw">
+            <svg class="svggraph" id="svgthumb_au" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#87 in 2020
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/au.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Australia (NSW)
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_au-namepaths">
+              <g class="svgcurveline" id="svgthumb_au-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d=" M74.1786 37.6265 L75.2857 36.6627 L77.5 35.6506 L79.7143 32.8072 L81.9286 29 L84.1429 27.1687 L86.3571 18.0602 L88.5714 15.4578 L90.7857 8.0361 L93 3.3614 L95.2143 9 L97.4286 10.1566 L99.6429 14.3494 L101.8571 16.7108 L104.0714 19.6024 L106.2857 22.6867 L108.5 23.8434 L110.7143 26.012 L112.9286 26.253 L115.1429 24.0843 L117.3571 25.9639 L119.5714 24.8072 L121.7857 27.0723 L124 27.2169 L126.2143 27.4578 L128.4286 26.012 L130.6429 27.8916 L132.8571 28.8072 L135.0714 31.6024 L137.2857 32.3735 L139.5 33.0482 L141.7143 35.988 L143.9286 35.6506 L146.1429 36.1325 L147.25 36.5181 M149.4643 36.5181 L150.5714 36.0361 L151.6786 36.4217">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_ca">
+           <a class="rl" href="/name/jake/top/canada">
+            <svg class="svggraph" id="svgthumb_ca" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#100 in 2013
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/ca.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Canada
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_ca-namepaths">
+              <g class="svgcurveline" id="svgthumb_ca-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d=" M110.3788 31.4 L111.1616 28.4462 L112.7273 26.9077 L114.2929 26.4154 L115.8586 21.1846 L117.4242 23.4615 L118.9899 23.7692 L120.5556 24.2615 L122.1212 26.9077 L123.6869 28.4462 L125.2525 27.2769 L126.8182 29.4923 L128.3838 28.8769 L129.9495 27.5231 L131.5152 27.3385 L133.0808 27.1538 L134.6465 29.3077 L136.2121 29.1846 L137.7778 28.2615 L139.3434 27.6462 L140.9091 26.8462 L142.4747 27.6462 L144.0404 28.9385 L145.6061 29.8 L146.3889 29.8">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_ew">
+           <a class="rl" href="/name/jake/top/england-wales">
+            <svg class="svggraph" id="svgthumb_ew" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#108 in 2021
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/gb.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              England and Wales
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_ew-namepaths">
+              <g class="svgcurveline" id="svgthumb_ew-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d="M0 3.8857 L6.2 6.8 L12.4 8.0286 L18.6 10.3429 L24.8 8.3143 L31 8.9714 L37.2 15.0571 L43.4 18.1143 L49.6 16.9429 L55.8 10.3143 L62 9.7429 L68.2 14 L74.4 19.0286 L80.6 21.6286 L86.8 21.6571 L93 20.8286 L99.2 22.5143 L105.4 22.5714 L111.6 23.3143 L117.8 24.9429 L124 29.7429 L130.2 31.6857 L136.4 32.6286 L142.6 34.4571 L148.8 35.8571 L155 36.0571">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_ir">
+           <a class="rl" href="/name/jake/top/ireland">
+            <svg class="svggraph" id="svgthumb_ir" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#56 in 2022
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/ie.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Ireland
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_ir-namepaths">
+              <g class="svgcurveline" id="svgthumb_ir-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d=" M76.1638 35.4 L77.5 35.4 L80.1724 33.6 L82.8448 32.3 L85.5172 30.4 L88.1897 29.4 L90.8621 30 L93.5345 28.5 L96.2069 24.9 L98.8793 18.6 L101.5517 18.3 L104.2241 17.4 L106.8966 20.4 L109.569 13.4 L112.2414 11.3 L114.9138 9 L117.5862 12.4 L120.2586 16.2 L122.931 11.3 L125.6034 16.3 L128.2759 14.5 L130.9483 11.5 L133.6207 14.7 L136.2931 12.5 L138.9655 18.5 L141.6379 22.6 L144.3103 22.8 L146.9828 24.4 L149.6552 28.1 L152.3276 26.3 L155 29.8">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_nl">
+           <a class="rl" href="/name/jake/top/netherlands">
+            <svg class="svggraph" id="svgthumb_nl" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#43 in 2023
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/nl.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Netherlands
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_nl-namepaths">
+              <g class="svgcurveline" id="svgthumb_nl-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d="M0 37.5 L5.1667 37.9 M15.5 37.9 L20.6667 36 L31 32.3 L41.3333 32.7 L51.6667 28.4 L62 24.1 L72.3333 28.4 L82.6667 25.8 L93 22.8 L103.3333 23.1 L113.6667 18.8 L124 17.6 L134.3333 12.7 L144.6667 5.7 L155 8.3">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_nz">
+           <a class="rl" href="/name/jake/top/new-zealand">
+            <svg class="svggraph" id="svgthumb_nz" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#96 in 2017
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/nz.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              New Zealand
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_nz-namepaths">
+              <g class="svgcurveline" id="svgthumb_nz-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d=" M114.0447 30.2632 L114.6748 30.0526 L115.3049 29.8421 M116.565 29.8421 L117.1951 26.2632 L118.4553 20.1579 L119.7154 15.9474 L120.9756 17.2105 L122.2358 16.3684 L123.4959 19.9474 L124.7561 21 L126.0163 23.9474 L127.2764 24.3684 L128.5366 20.1579 L129.7967 21.2105 L131.0569 21 L132.3171 18.0526 L133.5772 20.7895 L134.8374 15.9474 L136.0976 17.4211 L137.3577 19.3158 L138.6179 17.2105 L139.878 15.7368 L141.1382 19.1053 L142.3984 22.2632 L143.6585 26.6842 L144.9187 24.5789 L146.1789 26.8947 L147.439 29.8421 L148.0691 30.8947">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_ni">
+           <a class="rl" href="/name/jake/top/northern-ireland">
+            <svg class="svggraph" id="svgthumb_ni" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#44 in 2022
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/gb.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Northern Ireland
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_ni-namepaths">
+              <g class="svgcurveline" id="svgthumb_ni-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d="M0 16.0769 L7.0455 15.4615 L14.0909 18.2 L21.1364 17.0923 L28.1818 11.9538 L35.2273 9.2154 L42.2727 9.6769 L49.3182 13.5846 L56.3636 9.8615 L63.4091 13.7385 L70.4545 14.5692 L77.5 5.1846 L84.5455 8.0769 L91.5909 10.5077 L98.6364 7.2462 L105.6818 6.5692 L112.7273 13.7692 L119.7727 21.2154 L126.8182 21 L133.8636 27.0308 L140.9091 26.5385 L147.9545 24.5385 L155 25.1538">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_qc">
+           <a class="rl" href="/name/jake/top/quebec">
+            <svg class="svggraph" id="svgthumb_qc" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#41 in 2022
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/ca-qc.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Quebec, Canada
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_qc-namepaths">
+              <g class="svgcurveline" id="svgthumb_qc-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d=" M119.9405 40 L121.7857 37.8 L125.4762 32.2 L129.1667 31.4 L132.8571 27.8 L136.5476 23.4 L140.2381 19 L143.9286 19.8 L147.619 19.4 L151.3095 17.4 L155 17">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_sc">
+           <a class="rl" href="/name/jake/top/scotland">
+            <svg class="svggraph" id="svgthumb_sc" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#82 in 2018
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/gb.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              Scotland
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_sc-namepaths">
+              <g class="svgcurveline" id="svgthumb_sc-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d=" M102.4425 33.84 L103.3333 31.36 L105.1149 30.04 L106.8966 29.24 L108.6782 26.08 L110.4598 27.64 L112.2414 23.52 L114.023 26.68 L115.8046 21 L117.5862 18.6 L119.3678 24.2 L121.1494 25.52 L122.931 23.12 L124.7126 17.2 L126.4943 20.48 L128.2759 18.92 L130.0575 24.52 L131.8391 27.36 L133.6207 27.2 L135.4023 23.2 L137.1839 26.04 L138.9655 28.24 L140.7471 25.72 L142.5287 24.08 L144.3103 26.96 L146.092 31.32 L147.8736 30.08 L148.7644 31.8">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+          <div class="regionlink" id="regionlink_us">
+           <a class="rl" href="/name/jake/top/united-states">
+            <svg class="svggraph" id="svgthumb_us" preserveAspectRatio="none" style="overflow:visible;width:155px;height:58px;" title="Chart for jake" viewBox="0 0 155 58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>
+              Last ranked
+#407 in 2022
+             </title>
+             <rect height="13" style="fill:rgb(200,200,200)" width="17" x="2" y="43">
+             </rect>
+             <image height="12" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" x="2.5" y="43.5"/>
+             <text class="svgtitle" style="fill:#000000;font-size:13px;" text-anchor="end" x="153" y="55">
+              United States
+             </text>
+             <line class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3" x1="0" x2="155" y1="41" y2="41">
+             </line>
+             <g id="svgthumb_us-namepaths">
+              <g class="svgcurveline" id="svgthumb_us-jake-m" style="fill:none;stroke:#0000ff;stroke-width:1.3;">
+               <path d="M0 30.2 L1.0915 29.6667 L2.1831 30.4667 L3.2746 29.6667 L4.3662 31 L5.4577 29.5333 L6.5493 30.3333 L7.6408 30.0667 L8.7324 30.0667 L9.8239 29 L10.9155 33 L12.007 31.5333 L13.0986 29.2667 L14.1901 33.6667 L15.2817 31.8 L16.3732 31.4 L17.4648 31.9333 L18.5563 29.8 L19.6479 29.1333 L20.7394 32.2 L21.831 31 L22.9225 31.9333 L24.0141 30.7333 L25.1056 31.4 L26.1972 33.5333 L27.2887 32.4667 L28.3803 33.2667 L29.4718 31.1333 L30.5634 31.8 L31.6549 32.7333 L32.7465 31.5333 L33.838 34.8667 L34.9296 35.5333 L36.0211 35.4 L37.1127 35.6667 L38.2042 35.6667 L39.2958 35.8 L40.3873 36.8667 L41.4789 36.2 L42.5704 36.6 L43.662 36.6 L44.7535 36.7333 L45.8451 37 L46.9366 37.1333 L48.0282 37.5333 L49.1197 37.4 L50.2113 37.9333 L51.3028 37.9333 L52.3944 38.2 L53.4859 38.0667 L54.5775 38.3333 L55.669 38.3333 L56.7606 38.4667 L57.8521 38.3333 L58.9437 38.6 L60.0352 38.7333 L61.1268 38.6 L62.2183 38.8667 L63.3099 38.8667 L64.4014 38.8667 L65.493 39 L66.5845 39 L67.6761 39.1333 L68.7676 39.5333 L69.8592 39.4 L70.9507 39.4 L72.0423 39.4 L73.1338 39.6667 L74.2254 39.6667 L75.3169 39.6667 L76.4085 39.5333 L77.5 39.8 L78.5915 39.8 L79.6831 39.9333 L80.7746 39.9333 L81.8662 40.0667 L82.9577 40.2 L84.0493 40.0667 L85.1408 40.0667 L86.2324 40.0667 L87.3239 40.0667 L88.4155 39.9333 L89.507 40.0667 L90.5986 40.0667 L91.6901 40.0667 L92.7817 39.9333 L93.8732 40.0667 L94.9648 40.2 L96.0563 40.0667 L97.1479 39.9333 L98.2394 39.9333 L99.331 39.6667 L100.4225 38.8667 L101.5141 38.3333 L102.6056 38.4667 L103.6972 38.2 L104.7887 37.5333 L105.8803 37.5333 L106.9718 37.5333 L108.0634 37.2667 L109.1549 36.8667 L110.2465 36.7333 L111.338 36.3333 L112.4296 35.5333 L113.5211 35.6667 L114.6127 33.5333 L115.7042 30.2 L116.7958 29.8 L117.8873 29.6667 L118.9789 28.4667 L120.0704 27.2667 L121.162 23.5333 L122.2535 22.4667 L123.3451 20.3333 L124.4366 18.3333 L125.5282 17.8 L126.6197 18.0667 L127.7113 15.4 L128.8028 16.0667 L129.8944 15.2667 L130.9859 14.8667 L132.0775 16.2 L133.169 16.6 L134.2606 13 L135.3521 12.7333 L136.4437 15 L137.5352 16.4667 L138.6268 17.6667 L139.7183 17.8 L140.8099 19.6667 L141.9014 18.7333 L142.993 20.6 L144.0845 23.4 L145.1761 24.8667 L146.2676 26.8667 L147.3592 28.4667 L148.4507 30.6 L149.5423 30.8667 L150.6338 31.5333 L151.7254 32.8667 L152.8169 33.5333 L153.9085 34.0667 L155 35.4">
+               </path>
+              </g>
+             </g>
+            </svg>
+           </a>
+          </div>
+         </div>
+         <div id="topblurb_graph" style="margin:10px 0px;">
+         </div>
+        </div>
+       </section>
+       <section>
+        <div class="nameheading wide">
+         <div class="nameheading-top">
+          <h2 class="hx">
+           People think this name is
+          </h2>
+          <nav class="heading-nav">
+           <div>
+            <a class="text-function" href="/rating/rate.php?name=jake">
+             Rate
+            </a>
+            <span class="muted-sep">
+             ·
+            </span>
+            <a class="text-function" href="/name/jake/rating">
+             Details
+            </a>
+           </div>
+          </nav>
+         </div>
+        </div>
+        <div class="ratingblurb">
+         <span style="font-size:80%;line-height:100%;">
+          modern
+         </span>
+         <span style="font-size:100%;line-height:100%;">
+          youthful
+         </span>
+         <span style="font-size:100%;line-height:100%;">
+          informal
+         </span>
+         <span style="font-size:80%;line-height:100%;">
+          common
+         </span>
+         <span style="font-size:65%;line-height:100%;">
+          wholesome
+         </span>
+         <span style="font-size:120%;line-height:100%;">
+          strong
+         </span>
+         <span style="font-size:120%;line-height:100%;">
+          simple
+         </span>
+         <span style="font-size:65%;line-height:100%;">
+          comedic
+         </span>
+        </div>
+       </section>
+       <section>
+        <div class="nameheading wide">
+         <div class="nameheading-top">
+          <h2 class="hx">
+           Categories
+          </h2>
+         </div>
+        </div>
+        <div class="tagblurb">
+         <a class="ngl" href="/names/tag/a_good_girl's_guide_to_murder_characters">
+          A Good Girl's Guide to Murder characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/ace_attorney_characters">
+          Ace Attorney characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/adventure_time_characters">
+          Adventure Time characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/angry_birds_characters">
+          Angry Birds characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/armistead_maupin_characters">
+          Armistead Maupin characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/bluegrass_musicians">
+          bluegrass musicians
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/child_actors">
+          child actors
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/country_music_singers">
+          country music singers
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/d.gray-man_characters">
+          D.Gray-man characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/death_stranding_characters">
+          Death Stranding characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/diminutives">
+          diminutives
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/disney_characters">
+          Disney characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/drag_racers">
+          drag racers
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/dynasty_characters">
+          Dynasty characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/ernest_hemingway_characters">
+          Ernest Hemingway characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/fire_emblem_characters">
+          Fire Emblem characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/frasier_characters">
+          Frasier characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/henry_danger_characters">
+          Henry Danger characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/house_of_cards_us_characters">
+          House of Cards US characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/isograms">
+          isograms
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/jake_and_the_neverland_pirates_characters">
+          Jake and the Neverland Pirates characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/lgbt_history">
+          LGBT History
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/love_island_uk">
+          love island UK
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/medieval">
+          medieval
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/never_out_of_the_us_top_1000">
+          never out of the US top 1000
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/octavia_e._butler_characters">
+          Octavia E. Butler characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/pet_names">
+          pet names
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/power_rangers_characters">
+          Power Rangers characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/resident_evil_characters">
+          Resident Evil characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/robert_a._heinlein_characters">
+          Robert A. Heinlein characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/rugby_union_eagles">
+          rugby union Eagles
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/seinfeld_characters">
+          Seinfeld characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/short_forms">
+          short forms
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/six_feet_under_characters">
+          Six Feet Under characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/song_titles">
+          song titles
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/star_trek_characters">
+          Star Trek characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/star_wars_actors">
+          Star Wars actors
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/stephen_king_characters">
+          Stephen King characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/stranger_things_characters">
+          Stranger Things characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/teen_idols">
+          teen idols
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/tennessee_williams_characters">
+          Tennessee Williams characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/the_golden_girls_characters">
+          The Golden Girls characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/the_midnight_club_characters">
+          The Midnight Club characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/the_west_wing_characters">
+          The West Wing characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/tiger_and_bunny_characters">
+          Tiger and Bunny characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/tokyo_vice_characters">
+          Tokyo Vice characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/top_10_in_northern_ireland">
+          top 10 in Northern Ireland
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/tv_presenters">
+          TV presenters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/two_and_a_half_men_characters">
+          Two and a Half Men characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/united_kingdom_in_the_eurovision_song_contest">
+          United Kingdom in the Eurovision Song Contest
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/virtua_tennis_opponent_characters">
+          Virtua Tennis opponent characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/westworld_characters">
+          Westworld characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/wii_sports_opponent_miis">
+          Wii Sports opponent Miis
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/wii_sports_series_opponent_miis">
+          Wii Sports series opponent Miis
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/william_faulkner_characters">
+          William Faulkner characters
+         </a>
+         ,
+         <a class="ngl" href="/names/tag/youtubers">
+          YouTubers
+         </a>
+        </div>
+       </section>
+       <div class="namefooter">
+        <div class="namefooter-social">
+         <div class="social_block">
+          <a class="socic socic-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.behindthename.com%2Fname%2FJake&amp;picture=https%3A%2F%2Fwww.behindthename.com%2Fimages%2Fbtn_sm.png&amp;title=Behind%20the%20Name%3A%20Meaning%2C+origin+and+history+of+the+name+Jake" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600'); return false;">
+           <img alt="Share on Facebook" src="/images/social/facebook.svg" style="width:24px;height:24px;"/>
+          </a>
+          <a class="socic socic-twitter" href="https://twitter.com/share?text=Behind%20the%20Name%3A%20Meaning%2C+origin+and+history+of+the+name+Jake&amp;url=https%3A%2F%2Fwww.behindthename.com%2Fname%2FJake&amp;via=onomast" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600'); return false;">
+           <img alt="Share on Twitter" src="/images/social/twitter.svg" style="width:24px;height:24px;"/>
+          </a>
+         </div>
+        </div>
+        <div class="namefooter-blame">
+         Entry updated
+         <a href="/names/history.php?name=jake">
+          July 2, 2008
+         </a>
+        </div>
+       </div>
+      </article>
+      <br class="clear"/>
+     </div>
+    </div>
+    <nav class="name-navbar name-navbar-many">
+     <a class="nameicon nameicon-active" href="/name/jake">
+      <img src="/images/tabs/name-white.png"/>
+      <span>
+       Name
+      </span>
+     </a>
+     <a class="nameicon" href="/name/jake/top">
+      <img src="/images/tabs/top-white.png"/>
+      <span>
+       Popularity
+      </span>
+     </a>
+     <a class="nameicon" href="/name/jake/related">
+      <img src="/images/tabs/related-white.png"/>
+      <span>
+       Related
+      </span>
+     </a>
+     <a class="nameicon" href="/name/jake/rating">
+      <img src="/images/tabs/rating-white.png"/>
+      <span>
+       Ratings
+      </span>
+     </a>
+     <a class="nameicon" href="/name/jake/comments">
+      <img src="/images/tabs/comments-white.png"/>
+      <span>
+       Comments
+      </span>
+     </a>
+     <a class="nameicon" href="/name/jake/namesakes">
+      <img src="/images/tabs/namesakes-white.png"/>
+      <span>
+       Namesakes
+      </span>
+     </a>
+    </nav>
+   </div>
+  </div>
+  <footer>
+   <div id="footer">
+    <table>
+     <tbody>
+      <tr>
+       <td>
+        <nav>
+         <a href="/">
+          Home
+         </a>
+         »
+         <a href="/names/">
+          Names
+         </a>
+        </nav>
+       </td>
+       <td id="footer-right">
+        <nav>
+         <a href="/info">
+          About
+         </a>
+         ·
+         <a href="/info/help">
+          Help
+         </a>
+         ·
+         <a href="/info/copyright">
+          Copyright
+         </a>
+         ·
+         <a href="/info/terms">
+          Terms
+         </a>
+         ·
+         <a href="/info/privacy">
+          Privacy
+         </a>
+         ·
+         <a href="/info/contact">
+          Contact
+         </a>
+        </nav>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+  </footer>
+ </body>
+</html>
